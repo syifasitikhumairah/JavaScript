@@ -1,0 +1,10 @@
+Javascript adalah bahasa pemrograman yang digunakan untuk menambahkan fitur interaktif pada website,
+seperti ketika ingin membuat game, melakukan perubahan ketika mengklik tombol, efek dinamik, animasi, 
+dan masih banyak lagi. Javascript adalah bahasa pemrograman yang dapat dikolaborasikan dengan dokumen HTML dan digunakan
+untuk membuat website yang interaktif. Javascript diciptakan oleh Brendan Eich yang juga merupakan co-founder dari Mozilla project, 
+Mozilla Foundation dan Mozilla Corporation. 
+
+Pencipta Javascript adalah Brendan Eich.
+Javascript berjalan berbarengan dengan HTML dan CSS. Javascript bisa dijalankan di 
+browser Google Chrome, Internet Explorer / Microsoft Edge, Mozilla Firefox, Opera dan Safari.
+

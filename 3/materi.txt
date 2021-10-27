@@ -1,0 +1,40 @@
+Operator pada JavaScript
+
+Operator adalah simbol-simbol khusus yang digunakan untuk mengoperasikan suatu nilai data (operand).
+# Macam-macam Operator
+1. Operator Aritmatika
+Operator aritmatika digunakan untuk melakukan aritmatika pada angka.
++	Penambahan			1+1
+-	Pengurangan			1-1
+*	Pengalian			1*3
+/	Pembagian			10/2
+%	Modulus (sisa pembagian)	7/2
+++	Increment			variable++
+--	Decrement			variable--
+
+2. Operator Assignment
+Operator assignment memberikan nilai ke variabel Javascript.
+=	x=y	x=y
++=	x+=y	x=x+y
+-=	x-=y	x=x-y
+*`=`**	x*=y	x=x*y
+/=	x/=y	x=x/y
+%=	x%=y	x=x%y
+
+3. Operator Penggabungan String
+Operator "+" dapat digunakan untuk menggabungkan string.
+
+4. Operator Pembanding
+==	Sama dengan isinya
+===	Sama isinya dan sama tipenya
+!=	Tidak sama dengan isinya
+!==	Tidak sama isinya dan tidak sama tipenya
+>	Lebih dari
+<	Kurang dari
+>=	Lebih dari atau sama dengan
+<=	Kurang dari atau sama dengan
+?	Operator ternary (if else sederhana)
+5. Operator Logika
+&&	Logika And. Bernilai TRUE bila kedua kondisi bernilai TRUE.
+||	Logika Or. Bernilai TRUE bila salah satu atau kedua kondisi bernilai TRUE.
+!	Logika Not. Logika Pembalik. Bernilai TRUE bila kondisi FALSE, dan bernilai FALSE bila kondisi TRUE.

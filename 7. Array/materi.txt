@@ -1,0 +1,10 @@
+Array
+
+Array merupakan variabel khusus yang dapat menampung lebih dari satu data pada suatu waktu.
+nama_array.length;  = Menghitung Jumlah Array
+
+.toString() = Mengubah Array menjadi String
+.join() = Mengubah Array menjadi String (Apabila kita ingin mengganti pemisah dari defaultnya koma dengan yang lainnya)
+.pop() = Mengeluarkan data dari Array 
+.push() = Memasukkan data ke Array 
+.concat() = Menggabungkan dua Array 

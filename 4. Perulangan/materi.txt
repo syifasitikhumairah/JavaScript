@@ -1,0 +1,13 @@
+Perulangan pada JavaScript
+
+Dalam bahasa pemrograman, pengulangan dapat digunakan untuk "mengulang" kode yang kita inginkan, dengan data yang berbeda.
+Pengulangan pada Javascript bisa menggunakan beberapa cara antara lain :
+- For Loop
+For loop digunakan untuk pengulangan melalui blok kode beberapa kali.
+
+- While
+While digunakan untuk pengulangan melalui blok kode selama kondisi tertentu benar.
+
+- Do While
+Do while loop adalah varian dari while loop. Looping ini akan mengeksekusi kode satu kali, sebelum memeriksa apakah kondisinya benar, 
+jika kondisinya benar maka akan mengulang loop.

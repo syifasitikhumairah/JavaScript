@@ -1,0 +1,21 @@
+Variabel dan Tipe Data pada Javascript
+
+# Pengertian Variabel
+Variabel adalah suatu tempat yang digunakan untuk menampung data atau konstanta di memori yang mempunyai nilai yang dapat
+berubah-ubah selama proses program. 
+
+
+# Pengertian Tipe data
+Tipe data adalah sebuah cara yang digunakan untuk menentukan jenis suatu data tersebut. Kata lain dari hal ini adalah 
+"deklarasi variabel".
+
+# Javascript mempunyai beberapa tipe data yang digunakan.
+Jenis Tipe Data di Javascript
+* Tipe Data 	Contoh
+* String 	"Halo Dunia"
+* Boolean 	true/false
+* Number 	10, 9.15
+* Array 	[1,2,3]
+* Object 	{halo:"dunia"}
+
+typeof variable = Melakukan Pengecekan Variabel

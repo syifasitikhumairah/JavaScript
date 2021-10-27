@@ -1,0 +1,16 @@
+Pengkondisian pada JavaScript
+
+Pernyataan kondisional digunakan untuk melakukan tindakan yang berbeda berdasarkan pada kondisi yang berbeda. 
+Sangat sering ketika kita menulis kode, kita ingin melakukan tindakan yang berbeda untuk keputusan yang berbeda.
+
+- If
+Gunakan if untuk menentukan blok kode yang akan dieksekusi jika kondisi yang ditentukan bernilai benar.
+
+- Else
+Gunakan else untuk menentukan blok kode yang akan dieksekusi jika kondisi yang ditentukan bernilai salah.
+
+- Else If
+Gunakan pernyataan else if untuk menentukan kondisi baru jika kondisi pertama salah.
+
+- Switch
+Pernyataan switch digunakan untuk melakukan tindakan yang berbeda berdasarkan pada kondisi yang berbeda. (sama seperti if-else if-else)

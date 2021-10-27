@@ -1,0 +1,9 @@
+Fungsi pada JavaScript
+
+Fungsi JavaScript adalah blok kode yang dirancang untuk melakukan tugas tertentu.
+Fungsi JavaScript dijalankan ketika "sesuatu" memanggilnya.
+- Aturan Membuat Fungsi : 
+1. Fungsi JavaScript didefinisikan dengan keyword "function", lalu diikuti oleh nama fungsi, lalu diikuti oleh tanda kurung ().
+2. Nama fungsi dapat berisi huruf, angka, underscore (_), dan tanda dolar (aturan yang sama dengan variabel).
+3. Tanda kurung termasuk nama parameter dipisahkan oleh koma, contohnya seperti (parameter1, parameter2, ...)
+4. Kode yang akan dieksekusi ditempatkan di dalam kurung kurawal: {}
